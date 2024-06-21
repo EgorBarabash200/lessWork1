@@ -1,0 +1,16 @@
+.one{
+    width: 100px;
+    height: 100px;
+     border-left-width:30px ;
+     border-left-color:#098ea0 ;
+     border-left-style:dashed ;
+     border-right-width:20px ;
+     border-right-color:#8a0653 ;
+     border-right-style:dotted ;
+     border-top-width:25px ;
+     border-top-color:#cf0505 ;
+     border-top-style:solid ;
+     border-bottom-width:19px ;
+     border-bottom-color:#612ec0 ;
+     border-bottom-style:dashed ;
+}

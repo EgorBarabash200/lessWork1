@@ -1,0 +1,14 @@
+.lin-aqa{
+    background-color: #00E0FF;
+    width: 1253px;
+    height: 57px;
+    margin-top: 40px;
+    border-radius:30px ;
+}
+.lin-blue{
+    background-color: #000AFF;
+    width: 912px;
+    height: 57px;
+    border-radius:40px 0px 0px 40px ;
+    box-shadow: 0px 4px 6px #a5a3a3;
+}

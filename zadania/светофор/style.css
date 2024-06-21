@@ -1,0 +1,27 @@
+.kvad{
+    background-color: #000;
+    Width: 514px;
+    height: 208px;
+    margin: 60px 40px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.c-red{
+    background-color: #FC0000;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px ;
+}
+.c-yellow{
+    background-color: #FFE600;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+}
+.c-green{
+    background-color: #80FF00;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+}

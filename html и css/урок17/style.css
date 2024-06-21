@@ -1,0 +1,12 @@
+.box:first-child{
+    color: red;
+}
+.box:last-child{
+    color: green;
+}
+.box:nth-child(3){
+    color: yellow;
+}
+.block p {
+    color: rgb(58, 24, 207);
+}

@@ -1,0 +1,23 @@
+.one{
+    width: 100px;
+    height: 100px;
+    background-color: #d81313;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    border: #6809e4, solid;
+    z-index: 1;
+}
+.two{
+    width: 30px;
+    height: 30px;
+    background: #6809e4;
+    border: #f7e81b , dotted;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    z-index: 2;
+}
+.fixed{
+    height: 2000px;
+}

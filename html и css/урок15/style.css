@@ -1,0 +1,17 @@
+.one{
+    width: 100px;
+    height: 200px;
+    background-color: #df0404;
+    border-top-left-radius: 20px;
+    box-shadow: 10px 10px 20px #141414;
+    padding: 30px;
+    box-sizing: border-box;
+    opacity: 0.8;
+    transition: background-color 1s linear;
+}
+.one:hover{
+    background-color: rgb(46, 240, 20);
+}
+.two{
+    text-shadow: 10px 10px 20px #141414;
+}

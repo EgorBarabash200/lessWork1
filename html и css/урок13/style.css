@@ -1,0 +1,17 @@
+.button{
+    background-color: #059c49;
+    color: #ffffff; 
+    text-decoration: none;
+    padding: 20px;
+    
+}
+.button:hover{
+    background-color:#eb0909;
+}
+.button:active{
+    background-color: #7a1f51b9;
+}
+
+.input:focus{
+    background-color: #160ac5;
+}

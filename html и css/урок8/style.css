@@ -1,0 +1,9 @@
+.one{
+    color: #0d10b8;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 3px #d310a2 solid;
+    display: block;
+}

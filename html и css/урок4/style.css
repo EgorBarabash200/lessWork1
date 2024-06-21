@@ -1,0 +1,13 @@
+.one{
+    letter-spacing: 100px;
+    text-decoration: underline;
+    border: 3px #b30909 dashed;
+}
+.two{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    text-indent: 4%;
+    line-height: 150%;
+   text-transform: uppercase;
+    border: 18px #6c1bf0 dotted;
+}
