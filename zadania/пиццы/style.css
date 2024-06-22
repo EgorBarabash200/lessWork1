@@ -61,20 +61,16 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    flex-wrap: wrap;
+    gap: 30px;
 }
-.dad{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
+
 
 .orig{
     width: 500px;
     height: 309px;
     background-color: #ffffff;
     padding: 30px 0px 30px 30px;
-    margin-left:30px ;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -84,11 +80,10 @@ body{
     height: 309px;
     background-color: #ffffff;
     padding: 30px 0px 30px 30px;
-    margin-left:30px ;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    
 }
 .razm{
     width: 245px;
@@ -182,11 +177,7 @@ body{
 
 
 @media(max-width:1349px){
-    .piz{
-       display: flex;
-       align-items: center;
-      justify-content: center;
-    }
+    
     .opisanie{
         padding-left: 350px;
     }

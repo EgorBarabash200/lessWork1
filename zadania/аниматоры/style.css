@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+.header-img{
+    width: 100%;
+    height: 785px;
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ae4462f2c5695f6b8864d081/front-view-kid-wearing-party-hat_23-2149477945.jpeg);
+}
+.conteiner{
+    width: 624px;
+    height: 287px;
+    background-color: #ffffff;
+    padding: 30px 21px;
+    position: absolute;
+    bottom: 10px;
+    border-radius: 50px;
+}
+.birthday{
+    font-family: Lobster, sans-serif;
+    font-size: 76px;
+    font-weight: 400;
+    color: #f1c50e;
+    margin: 44px 0px 0px 96px;
+    text-align: left;
+}
+.party{
+    font-family: Montserrat , sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    margin: 0px 92px 0px 99px;
+    color: #111;
+    text-align: left;
+}
+.imfr{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    margin: 32px 92px 0px 99px;
+    text-align: left;
+}
+.freepik{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #f1c50e;
+    text-decoration: none;
+}
