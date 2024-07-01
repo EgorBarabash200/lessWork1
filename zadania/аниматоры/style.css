@@ -57,6 +57,7 @@ body{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e488fd2c86fc54058cb04108/Untitled-1.jpg);
     background-size: cover;
     background-position: center;
+    
 }
 .main-text-wwd{
     font-family: Lobster, sans-serif;
@@ -89,11 +90,225 @@ body{
     font-family: Montserrat , sans-serif;
     font-size: 20px;
     color: #111;
-    text-align: center;
+    text-align: center;font-family: Montserrat , sans-serif;
 }
 .main-container-text-sample-wwd{
     font-family: Open Sans , sans-serif;
     font-size: 16px;
     color: #111;
     text-align: center;
+}
+.main-ot{
+    width: 100%;
+    height: 1290px;
+    background-color: #fef9e6;
+}
+.main-text-ot{
+    font-family: Lobster, sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    color: #111;
+    text-align: center;
+    margin-top: 63px;
+}
+.main-block-ot{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.main-container-ot{
+    width: 20%;
+    height: 505px;
+    background-color: #ffffff;
+    padding: 30px;
+}
+.main-container-img1-ot{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/04ee3ddda8d95834bb92e570/portrait-young-woman-casual-clothes-with-blonde-dyed-hair-gently-smiling-during-pleasant-conversation-standing-closed-posture.jpg);
+    background-size: cover;
+    background-position: 93.58% 50%;;
+    width: 257px;
+    height: 257px;
+    border-radius: 50%;
+}
+.main-container-img2-ot{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/861162f869e650e0b7798f66/08a3461f-6e0c-4b94-8524-b2fc1f0ce15b.jpg);
+    background-size: cover;
+    background-position: 100% 50%;
+    width: 257px;
+    height: 257px;
+    border-radius: 50%;
+}
+.main-container-img3-ot{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ec8c600040e354359214d93e/pexels-gustavo-fring-3983570.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 257px;
+    height: 257px;
+    border-radius: 50%;
+}
+.main-container-img4-ot{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/aa992c2ac381589d9df42a92/portrait-cheerful-handsome-bearded-guy-with-fashionable-hairstyle-smiling1.jpg);
+    background-size: cover;
+    background-position: 0% 50%;
+    width: 257px;
+    height: 257px;
+    border-radius: 50%;
+}
+.main-container-img5-ot{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/572af275b87a559d93b354c8/travel-agent-hearing-customer-desires-portrait-good-looking-european-businesswoman-blue-blouse-glasses-holding-hands-pockets-smiling-being-friendl.jpg);
+    background-size: cover;
+    background-position: 99.03% 50%;
+    width: 257px;
+    height: 257px;
+    border-radius: 50%;
+}
+.main-container-img6-ot{
+    width: 64px;
+    height: 64px;
+    margin-left: 40%;
+}
+.main-container-img-instagram-ot{
+    width: 80px;
+    height: 70px;
+    margin-left: 36%;
+}
+.main-container-text-h-ot{
+    font-family: Montserrat , sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #f1c50e;
+    text-align: center;
+}
+.main-container-text-p-ot{
+    font-family: Montserrat , sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    color: #111;
+    text-align: center;
+}
+.main-container-text-while-ot{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    text-align: left;
+    margin-top: 110px;
+}
+.main-container-link-ot{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #f1c50e;
+    text-decoration: none;
+}
+.main-container-link-ot:hover{
+    color: #a3a108;
+}
+.main-og{
+    width: 100%;
+    background-color: #ffffff;
+}
+.main-text-og{
+    font-family: Lobster, sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    color: #111;
+    text-align: center;
+    margin-top: 88px;
+}
+.main-block-og{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.main-container-img-og{
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-container-img1-og{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/6e0c819d05715066815ff268/excited-kids-releasing-balloons-party_23-2147897597.jpeg);
+    background-size: cover;
+    background-position: center;
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-container-img2-og{
+    background-image:url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/d4d6db7c76605ee6896bf1df/children-celebrating-birthday.jpg);
+    background-size: cover;
+    background-position: center;
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-container-img3-og{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/7f9710e1ece658cb989a1f77/children-colored-caps-playing_23-2147807858.jpeg);
+    background-size: cover;
+    background-position: center;
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-container-img4-og{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/acc161c1fe315c0a9625860c/crop-woman-putting-napkin-girl_23-2147783721.jpeg);
+    background-size: cover;
+    background-position: center;
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-container-img5-og{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/47ac0bcd0a96500284b91508/1701344_medium2000.png);
+    background-size: cover;
+    background-position: center;
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-container-img6-og{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ce44e13b52ee5eec9d8826e4/2050938_medium2000.jpg);
+    background-size: cover;
+    background-position: center;
+    width:352px;
+    height: 352px;
+    padding: 20px;
+}
+.main-text-p-og{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    text-align: center;
+    margin-top: 43px;
+}
+.main-link-freepik-og{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #f1c50e;
+    text-decoration: none;
+}
+.main-link-freepik-og:hover{
+    color: #a3a108;
+}
+.main-link-vm-og{
+    background-color: #f1c50e;
+    color: #111;
+    text-decoration: none;
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 16px 46px 17px;
+    margin-left: 43%;
+    border-radius: 40px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 80px;
+}
+.main-link-vm-og:hover{
+    color:#fff;
+    background-color: #111;
 }
