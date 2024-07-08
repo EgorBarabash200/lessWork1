@@ -1,6 +1,9 @@
 body{
     margin: 0;
 }
+p,h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
 .header-img{
     width: 100%;
     height: 785px;
@@ -52,24 +55,29 @@ body{
 
 }
 .main-img-wwd{
-    width: 80%;
-    height: 405px;
+    height: 505px;
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e488fd2c86fc54058cb04108/Untitled-1.jpg);
     background-size: cover;
-    background-position: center;
-    margin-left: 10%;
+    background-position: 50% 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .main-text-wwd{
     font-family: Lobster, sans-serif;
     font-size: 48px;
-    font-weight: 500;
+    font-weight: 900;
     text-align: center;
     color: #111;
+    margin-top: 50px;
 }
 .main-block-wwd{
+    width: 80%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    margin-top: 40px;
 }
 .main-container-wwd{
     width: 277px;
@@ -90,42 +98,50 @@ body{
     font-size: 20px;
     color: #111;
     text-align: center;font-family: Montserrat , sans-serif;
+    margin-top: 30px;
 }
 .main-container-text-sample-wwd{
     font-family: Open Sans , sans-serif;
     font-size: 16px;
     color: #111;
     text-align: center;
+    margin-top: 20px;
 }
 .main-ot{
     width: 100%;
-    height: 1290px;
     background-color: #fef9e6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .main-text-ot{
     font-family: Lobster, sans-serif;
     font-size: 48px;
-    font-weight: 500;
+    font-weight: 900;
     color: #111;
     text-align: center;
-    margin-top: 63px;
+    margin-top: 30px;
 }
 .main-block-ot{
-    width: 90%;
+    width: 80%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 30px;
-    margin-left: 5%;
+    gap: 50px;
+    margin-top: 42px;
+    margin-bottom: 60px;
 }
 .main-container-ot{
     width: 20%;
     height: 505px;
     background-color: #ffffff;
-    padding: 30px;
+    padding: 30px ;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .main-container-img1-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/04ee3ddda8d95834bb92e570/portrait-young-woman-casual-clothes-with-blonde-dyed-hair-gently-smiling-during-pleasant-conversation-standing-closed-posture.jpg);
@@ -134,7 +150,6 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
-    margin-left: 7%;
 }
 .main-container-img2-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/861162f869e650e0b7798f66/08a3461f-6e0c-4b94-8524-b2fc1f0ce15b.jpg);
@@ -143,7 +158,6 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
-    margin-left: 7%;
 }
 .main-container-img3-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ec8c600040e354359214d93e/pexels-gustavo-fring-3983570.jpg);
@@ -152,7 +166,6 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
-    margin-left: 7%;
 }
 .main-container-img4-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/aa992c2ac381589d9df42a92/portrait-cheerful-handsome-bearded-guy-with-fashionable-hairstyle-smiling1.jpg);
@@ -161,7 +174,6 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
-    margin-left: 7%;
 }
 .main-container-img5-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/572af275b87a559d93b354c8/travel-agent-hearing-customer-desires-portrait-good-looking-european-businesswoman-blue-blouse-glasses-holding-hands-pockets-smiling-being-friendl.jpg);
@@ -170,16 +182,14 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
-    margin-left: 7%;
 }
 .main-container-img6-ot{
     width: 64px;
-    height: 64px;
-    margin-left: 40%;
+    margin-top: 20px;
 }
 .main-container-img-instagram-ot{
     width: 70px;
-    margin-left: 36%;
+    margin-top: 20px;
 }
 .main-container-text-h-ot{
     font-family: Montserrat , sans-serif;
@@ -187,6 +197,7 @@ body{
     font-weight: 700;
     color: #f1c50e;
     text-align: center;
+    margin-top: 30px;
 }
 .main-container-text-p-ot{
     font-family: Montserrat , sans-serif;
@@ -194,6 +205,7 @@ body{
     font-style: italic;
     color: #111;
     text-align: center;
+    margin-top: 20px;
 }
 .main-container-text-while-ot{
     font-family: Open Sans , sans-serif;
@@ -214,11 +226,15 @@ body{
 .main-og{
     width: 100%;
     background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .main-text-og{
     font-family: Lobster, sans-serif;
     font-size: 48px;
-    font-weight: 500;
+    font-weight: 900;
     color: #111;
     text-align: center;
     margin-top: 88px;
@@ -230,7 +246,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    margin-left: 10%;
+    margin-top: 30px;
 }
 .main-container-img1-og{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/6e0c819d05715066815ff268/excited-kids-releasing-balloons-party_23-2147897597.jpeg);
@@ -304,11 +320,11 @@ body{
     font-size: 16px;
     font-weight: 500;
     padding: 16px 46px 17px;
-    margin-left: 43%;
     border-radius: 40px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    line-height: 80px;
+    height: 20px;
+    margin-top: 40px;
 }
 .main-link-vm-og:hover{
     color:#fff;
