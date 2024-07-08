@@ -52,19 +52,18 @@ body{
 
 }
 .main-img-wwd{
-    width: 100%;
-    height: 505px;
+    width: 80%;
+    height: 405px;
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e488fd2c86fc54058cb04108/Untitled-1.jpg);
     background-size: cover;
     background-position: center;
-    
+    margin-left: 10%;
 }
 .main-text-wwd{
     font-family: Lobster, sans-serif;
     font-size: 48px;
     font-weight: 500;
     text-align: center;
-    margin-top: 70px;
     color: #111;
 }
 .main-block-wwd{
@@ -112,18 +111,21 @@ body{
     margin-top: 63px;
 }
 .main-block-ot{
-    width: 100%;
+    width: 90%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
+    margin-left: 5%;
 }
 .main-container-ot{
     width: 20%;
     height: 505px;
     background-color: #ffffff;
     padding: 30px;
+    display: flex;
+    flex-direction: column;
 }
 .main-container-img1-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/04ee3ddda8d95834bb92e570/portrait-young-woman-casual-clothes-with-blonde-dyed-hair-gently-smiling-during-pleasant-conversation-standing-closed-posture.jpg);
@@ -132,6 +134,7 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
+    margin-left: 7%;
 }
 .main-container-img2-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/861162f869e650e0b7798f66/08a3461f-6e0c-4b94-8524-b2fc1f0ce15b.jpg);
@@ -140,6 +143,7 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
+    margin-left: 7%;
 }
 .main-container-img3-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ec8c600040e354359214d93e/pexels-gustavo-fring-3983570.jpg);
@@ -148,6 +152,7 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
+    margin-left: 7%;
 }
 .main-container-img4-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/aa992c2ac381589d9df42a92/portrait-cheerful-handsome-bearded-guy-with-fashionable-hairstyle-smiling1.jpg);
@@ -156,6 +161,7 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
+    margin-left: 7%;
 }
 .main-container-img5-ot{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/572af275b87a559d93b354c8/travel-agent-hearing-customer-desires-portrait-good-looking-european-businesswoman-blue-blouse-glasses-holding-hands-pockets-smiling-being-friendl.jpg);
@@ -164,6 +170,7 @@ body{
     width: 257px;
     height: 257px;
     border-radius: 50%;
+    margin-left: 7%;
 }
 .main-container-img6-ot{
     width: 64px;
@@ -171,8 +178,7 @@ body{
     margin-left: 40%;
 }
 .main-container-img-instagram-ot{
-    width: 80px;
-    height: 70px;
+    width: 70px;
     margin-left: 36%;
 }
 .main-container-text-h-ot{
@@ -218,17 +224,13 @@ body{
     margin-top: 88px;
 }
 .main-block-og{
-    width: 100%;
+    width: 80%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-}
-.main-container-img-og{
-    width:352px;
-    height: 352px;
-    padding: 20px;
+    margin-left: 10%;
 }
 .main-container-img1-og{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/6e0c819d05715066815ff268/excited-kids-releasing-balloons-party_23-2147897597.jpeg);
