@@ -330,3 +330,341 @@ p,h1,h2,h3,h4,h5,h6{
     color:#fff;
     background-color: #111;
 }
+.main-bfc{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    background-color: #f1c50e;
+}
+.main-text-h-bfc{
+    font-family: Lobster, sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    color: #111;
+    text-align: center;
+    margin-top: 60px;
+}
+.main-text-p-bfc{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    margin-top: 20px;
+}
+.main-link-bfc{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    background-color: #fff;
+    color: #111;
+    height: 20px;
+    margin-top: 30px;
+    padding: 17px 74px 18px 72px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.main-link-bfc:hover{
+    background-color: #dfdcdc;
+}
+.main-img-piuq{
+    height: 685px;
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e488fd2c86fc54058cb04108/Untitled-1.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-block-piuq{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin-top: 30px;
+}
+.main-container-piuq{
+    width: 444px;
+    height: 267px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.main-container-img-piuq{
+    width: 128px;
+}
+.main-container-text-h-piuq{
+    font-family: Montserrat , sans-serif;
+    font-size: 20px;
+    color: #111;
+    margin-top: 31px;
+}
+.main-container-text-p-piuq{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    margin-top: 19px;
+}
+.main-wps{
+    background-color: #fef9e6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.main-text-h-wps{
+    font-family: Lobster, sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: #111;
+    margin-top: 60px;
+}
+.main-block-wps{
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 30px;
+}
+.main-container-wps{
+    background-color: #fff;
+    width: 359px;
+    height: 393px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+.main-container-img1-wps{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/43bdaa24bc855997be21ba58/516befa0-bbfa-454c-acd8-11ce10a95795.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+}
+.main-container-img2-wps{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/1ba281bdcfe851808b5b82fe/4fa35b60-d6ac-4d3a-a759-df3d04979186.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+}
+.main-container-img3-wps{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e16598fa3aca545a98eedca0/pexels-kha-ruxury-12836129.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+}
+.main-container-img4-wps{
+    background-image: url(https://images02.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/86777a40c3b15bc3b2fe0b64/pexels-christina-morillo-1181391.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+}
+.main-container-img5-wps{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/4492e4958bc3531f8ad93710/pexels-hebert-santo-9708442.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+}
+.main-container-img6-wps{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/c5ace43d8b0352a68fbc29ee/pexels-reyna-montgomery-12093797.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+}
+.main-container-text-h-wps{
+    font-family: Montserrat , sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #111;
+    margin-top: 20px;
+}
+.main-container-text-p-proin-wps{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #999;
+    margin-top: 20px;
+    text-align: center;
+}
+.main-container-line-wps{
+    width: 100%;
+    border-top-width: 2px;
+    border-top-color: #f1c50e;
+    border-top-style: solid;
+    margin-top: 30px;
+}
+.main-container-text-p-monday-wps{
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    color: #b3b3b3;
+    margin-top: 30px;
+}
+.main-hbvh{
+    background-color: #f1c50e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-block-hbvh{
+    margin-top: 70px;
+    width: 57%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.main-container-hbvh{
+    width: 385px;
+    height: 258px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.main-container-int-hbvh{
+    font-family: Montserrat , sans-serif; 
+    font-size: 60px;
+    color: #fff;
+}
+.main-container-text-h-hbvh{
+    font-family: Montserrat , sans-serif; 
+    font-size: 20px;
+    color: #111;
+    margin-top: 24px;
+}
+.main-container-text-p-hbvh{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    margin-top: 16px;
+}
+.main-container-img-hbvh{
+    width: 48px;
+    margin-top: 40px;
+}
+.main-img-fc{
+    width: 100%;
+    height: 785px;
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/dd62a3120519558785ac677f/close-up-little-girl-having-fun-birthday-party_1098-1319.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.main-block-fc{
+    width: 27%;
+    height: 320px;
+    background-color: #fff;
+    position: absolute;
+    padding: 30px 40px 30px 120px;
+    top: 45%;
+    left: 5%;
+    border-radius: 0px 50px 50px 0px; ;
+    display: flex;
+    flex-direction: column;
+}
+.main-container-text-h-fc{
+    font-family: Montserrat , sans-serif; 
+    font-size: 20px;
+    color: #111;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.main-container-form-fc{
+    margin-top: 20px;
+}
+.main-container-label-fc{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    font-weight: normal;
+    margin-top: 16px;
+}
+.main-container-input-fc{
+    width: 90%;
+    height: 24px;
+    border: 2px, #d6e5fc,solid;
+    border-radius: 30px;
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    background-color: #e8eef7;
+    padding: 10px 12px;
+}
+.main-container-link-submit-fc{
+    width: 20%;
+    height: 25px;
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    text-decoration: none;
+    text-align: center;
+    background-color: #f1c50e;
+    padding: 10px 30px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+.main-container-link-submit-fc:hover{
+    background-color: #7e6609;
+}
+.main-container-text-p-fc{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #111;
+    margin-top: 20px;
+}
+.main-container-link-freepik-fc{
+    font-family: Open Sans , sans-serif;
+    font-size: 16px;
+    color: #f1c50e;
+    text-decoration: none;
+}
+.main-container-link-freepik-fc:hover{
+   color: #a3a108;
+}
+.footer-block{
+    height: 200px;
+    background-color: #333333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text-p{
+    font-family: Open Sans , sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+.footer-container{
+    margin-top: 5%;
+}
+.footer-container-link-templ{
+    font-family: Open Sans , sans-serif;
+    font-size: 13px;
+    text-align: center;
+    color: #adcce9;
+}
+.footer-container-text-span-cw{
+    font-family: Open Sans , sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
