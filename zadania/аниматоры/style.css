@@ -124,7 +124,7 @@ p,h1,h2,h3,h4,h5,h6{
     margin-top: 30px;
 }
 .main-block-ot{
-    width: 90%;
+    width: 75%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -134,7 +134,7 @@ p,h1,h2,h3,h4,h5,h6{
     margin-bottom: 60px;
 }
 .main-container-ot{
-    width: 23%;
+    width: 293px;
     height: 505px;
     background-color: #ffffff;
     padding: 30px ;
@@ -369,7 +369,6 @@ p,h1,h2,h3,h4,h5,h6{
     background-color: #dfdcdc;
 }
 .main-img-piuq{
-    height: 685px;
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e488fd2c86fc54058cb04108/Untitled-1.jpg);
     background-size: cover;
     background-position: 50% 50%;
@@ -430,19 +429,18 @@ p,h1,h2,h3,h4,h5,h6{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    margin: 30px 0px 50px 0px;
     gap: 20px;
 }
 .main-container-wps{
     background-color: #fff;
-    width: 25%;
+    width: 293px;
     height: 323px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
     padding: 30px;
-   margin: 10px 0px 50px 0px;
 }
 .main-container-img1-wps{
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/43bdaa24bc855997be21ba58/516befa0-bbfa-454c-acd8-11ce10a95795.jpg);
@@ -671,3 +669,4 @@ p,h1,h2,h3,h4,h5,h6{
     color: #fff;
     text-align: center;
 }
+
