@@ -55,7 +55,7 @@ p,h1,h2,h3,h4,h5,h6{
 
 }
 .main-img-wwd{
-    height: 505px;
+   /* height: 505px;*/
     background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/e488fd2c86fc54058cb04108/Untitled-1.jpg);
     background-size: cover;
     background-position: 50% 0%;
@@ -557,6 +557,7 @@ p,h1,h2,h3,h4,h5,h6{
     font-size: 16px;
     color: #111;
     margin-top: 16px;
+    text-align: center;
 }
 .main-container-img-hbvh{
     width: 48px;
@@ -670,3 +671,67 @@ p,h1,h2,h3,h4,h5,h6{
     text-align: center;
 }
 
+
+
+
+@media(max-width: 5000px){
+    .main-block-ot{
+        width: 1500px;
+    }
+    .main-block-og{
+        width: 1500px;
+    }
+    .main-block-piuq{
+        width: 1300px;
+    }
+    .main-block-wps{
+        width: 1100px;
+    }
+    .main-block-hbvh{
+        width: 1100px;
+    }
+}
+@media(max-width: 1600px){
+    .main-block-ot{
+        width: 75%;
+    }
+    .main-block-og{
+        width: 80%;
+    }
+    .main-block-piuq{
+        width: 60%;
+    }
+    .main-block-wps{
+        width: 85%;
+    }
+    .main-block-hbvh{
+        width: 57%;
+    }
+}
+@media(max-width: 870px){
+    .main-block-fc{
+        width: 220px;
+        padding: 30px 40px 30px 50px;
+    }
+    .main-container-input-fc{
+        width: 100%;
+    }
+}
+@media(max-width:770px){
+    .header-container{
+        width: 300px;
+    }
+    .header-container-text-birthday{
+        margin-left: 5px;
+    }
+    .header-container-text-party{
+        margin-left: 6px;
+    }
+    .header-container-text-imfr{
+        margin-left: 5px;
+    }
+    .main-block-wwd{
+        display: flex;
+        flex-direction: column;
+    }
+}
