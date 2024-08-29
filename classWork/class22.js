@@ -1,17 +1,19 @@
 // Напишите функцию pow(x,n), которая возводит x в степень n и возвращает результат.
 
-function caclStep (x , n){
+function pow (x , n){
     return x ** n;
 }
 
-x = prompt("Введите число" , );
-n = prompt("Введите степень" , );
+const x = prompt("Введите число" , );
+const n = prompt("Введите степень" , );
 
-if(n >= 1 && n % 1 == 0){
-    result = caclStep (x , n);
-    alert(result);
+console.log(x, 'переменная х', typeof x , 'тип переменной'); 
+
+if(n >= 1 && n % 1 === 0){
+     const result = pow (x , n);
+    console.log(result);
 }else{
-    alert("Степень поддерживает только натуральное число");
+    console.log("Степень поддерживает только натуральное число");
 }
 
 
