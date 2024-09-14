@@ -12,7 +12,7 @@ function randomInteger(min, max){
     const randomNumber = String(Math.random());
     let result = null;
     for(let i = 0; i < randomNumber.length; i++ ){
-        const num = Number(randomNumber[1]);
+        const num = Number(randomNumber[i]);
         if(num >= min && num < max && !result){
               result = num;
         }
